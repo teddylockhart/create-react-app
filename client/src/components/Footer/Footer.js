@@ -2,8 +2,8 @@ import React from "react";
 import "./Footer.css";
 
 const Footer = () =>
-  <footer class="footer">
-    <div class="container">
+  <footer className="footer">
+    <div className="container">
       <p>New York Times Mongo Scraper</p>
     </div>
   </footer>
